@@ -60,5 +60,5 @@ Model terbaik yang dihasilkan:
 5. Buat Pull Request
 
 
-© 2023 [mrMaula] | Portofolio Data Science
+© 2025 [M.Ridho Maula] | Portofolio Data Science
 
